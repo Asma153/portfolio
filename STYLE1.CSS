@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+body {
+    background-color: orange;
+}
+ul li{
+    width: 50px;
+    background-color: blue; 
+}
+h1, h2 {
+    text-decoration: underline;
+}
+img { 
+    width: 400px; margin: 10%; border: 2px red;
+}
+#title {color: blueviolet;font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: "Dancing Script", cursive; font-size: 50px; font-style: oblique;background-color: pink;}
+    img {max-width: 300px;margin: 15%; }
+    

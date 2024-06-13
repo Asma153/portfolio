@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+body
+ {
+    background-color: plum;
+background-image: 
+url(https://img.freepik.com/vecteurs-libre/fond-ciel-pastel-aquarelle-peint-main_23-2148902771.jpg
+); 
+background-repeat:no-repeat;
+background-size: cover;
+}
+li
+{
+    background-color: green;
+}
+p
+{background-color: rgb(205, 74, 96);}
+.blue {color: blue;}
+#title
+{
+    color: orange; 
+border-width: 5px; 
+border-style: solid; 
+border-color: black; 
+padding: 40px;
+margin: 30px;
+}
+ol li {background-color: aqua;
+width: 100px;}
+ul li{width: 100px;}
+h1, h2, p{text-decoration: underline;}
+#title {color: blueviolet;font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: "Dancing Script", cursive; font-size: 50px;
+font-style: oblique;background-color: pink;}
+    h2{font-weight: lighter;
+    text-decoration: line-through;}
+    a {text-decoration: none;
+    color: yellow;
+text-transform: uppercase;}
+*{ margin: 0; padding:0;}
+img {max-width: 50%;}
